@@ -4,7 +4,7 @@ steps:
 - name: 'gcr.io/cloud-builders/kubectl'
   args: ['patch', '-n', '${_PROJECT_NAME}', 'wordpress', '${_SITE_NAME}', '--type=json', '-p', '[{"op": "replace", "path": "/spec/image", "value": "gcr.io/$PROJECT_ID/${_SITE_NAME}:$SHORT_SHA"}]']
   env:
-  - 'CLOUDSDK_COMPUTE_ZONE=<us-central1-c>'
+  - 'CLOUDSDK_COMPUTE_ZONE=<us-central1>'
   - 'CLOUDSDK_CONTAINER_CLUSTER=<presslabs-test2>'
 images:
   - 'gcr.io/$PROJECT_ID/${_SITE_NAME}:$SHORT_SHA'
