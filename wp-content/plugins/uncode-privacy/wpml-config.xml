@@ -1,0 +1,8 @@
+<wpml-config>
+	<admin-texts>
+		<key name="uncode_privacy_cookie_banner_content" />
+		<key name="uncode_privacy_cookie_privacy_excerpt" />
+		<key name="uncode_privacy_fallback" />
+		<key name="uncode_privacy_consent_types" />
+	</admin-texts>
+</wpml-config>

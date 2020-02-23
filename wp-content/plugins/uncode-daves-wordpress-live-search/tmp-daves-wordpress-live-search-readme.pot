@@ -1,0 +1,950 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Dave&#039;s WordPress Live Search"
+msgstr ""
+
+#. Short description.
+msgid "Adds &quot;live search&quot; functionality to your WordPress site. Uses the built-in search and jQuery."
+msgstr ""
+
+#. Screenshot description.
+msgid "Demonstration of Dave's WordPress Live Search"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Dave's WordPress Live Search adds \"live search\" functionality to your WordPress site. As visitors type words into your WordPress site's search box, the plugin continually queries WordPress, looking for search results that match what the user has typed so far."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The <a href=\"http://ajaxpatterns.org/Live_Search\">live search</a> technique means that most people will find the results they are looking for before they finish typing their query, and it saves them the step of having to click a submit button to get their search results."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This functionality requires Javascript, but the search box still works normally if Javascript is not available."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This plugin is compatible with the <a href=\"http://wordpress.org/extend/plugins/xlanguage/\">xLanguage</a> and <a href=\"http://wpml.org/\">WPML</a> plugins for internationalization (i18n) of search results."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "http://www.youtube.com/watch?v=7CGR2bJ1mLM"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Dave's WordPress Live Search is a plugin that brings live search, sometimes called \"autocomplete\", to your WordPress site. Many of the web's most popular destinations use this technique so customers can get right to the information or products they're after, and now you can deliver that same experience to your site's visitors. Like WordPress itself, it's designed to be simple to set up and use right away, but powerful and customizable for advanced users."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "You can install the plugin right from WordPress itself by going to the Plugins section, clicking \"Add New\", and searching for \"Dave's WordPress Live Search\". Click \"install now\" to add the plugin to your site. If you prefer to install the plugin manually, it's available for download in the WordPress plugins directory."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "After you install the plugin, go to the Settings menu and choose \"Live Search\". Let's take a look at the main \"settings\" tab, which controls how the plugin looks and behaves. The \"Maximum Results to Display\" option lets you limit the number of search results your users see. If you have a large site, you should set this to 5 or less or it might take a long time to display. Remember, your visitors can still click the \"search\" button like they normally would to get all the matching results. The \"Minimum characters\" option lets you choose how much people need to type before the plugin starts offering results. The longer you wait before showing results, the better the first set of results will be."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "The \"Results Direction\" setting lets you choose whether the results should grow up or down from the search box. People are used to seeing the results underneath the box, but if space is tight on your site or blog, you should show them above the search box to make sure they fit on the screen."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "You can also choose what's included with the search results. They can include a thumnail image, excerpt, even who wrote the content and when. You may want to include the \"View more results\" link at the bottom of the search results, so users can click through to see more results."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Dave's WordPress Live Search ships with three color schemes: gray, red, and blue. Advanced users and developers can use the other styling options to better match their site's theme."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "When you're ready, save your changes, and Dave's WordPress Live Search is ready to use. It automatically attaches itself to any search boxes in your theme, or any search widgets you add, giving your site's visitors a better search experience with a minimum of fuss."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-10-15 Dave Ross <a href=\"mailto:&#100;&#097;&#118;&#101;&#064;da&#x76;&#x69;&#x64;&#x6d;&#x69;&#x63;&#104;&#097;&#101;&#108;&#114;&#111;&#115;s&#x2e;&#x63;&#x6f;&#x6d;\">&#100;&#097;&#118;&#101;&#064;da&#x76;&#x69;&#x64;&#x6d;&#x69;&#x63;&#104;&#097;&#101;&#108;&#114;&#111;&#115;s&#x2e;&#x63;&#x6f;&#x6d;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed text domain to 'daves-wordpress-live-search'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added \"Text Domain:\" plugin header declaration"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed link to CrowdIn for translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed CrowdIn references from readme"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "^ All this in preparation for WordPress plugin language packs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed Relevanssi reference from readme"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-08-19 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue excerpts not displaying"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Scripts are now enqueued in the footer"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Admin screen titles are now h1 instead of h2 in WordPress 4.3+"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015-05-10 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added 'underscore' as a dependency for the plugin's JavaScript files"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated Copyright dates (yay?)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a file with examples of how to use the different filters"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Don’t specify a schema for admin_url(), let it default to 'admin'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "firstImg() using fixed regex from dwlstng"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Using HTML-escaped tags in Underscore.js template (where appropriate)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014-05-10 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug parsing the \"display thumbnails\" and \"view more results\" settings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014-04-17 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Use class=\"no-livesearch\" to disable live search on a particular search box"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug saving checkboxes on the \"Appearance\" tab"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014-01-12 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed check for PHP 4. WordPress 3.5 is the minimum and that needs PHP 5 anyway."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed caching. It wasn't effective enough &amp; was a support nightmare."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Using an Underscore template to render search results"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Ukranian translation by Paul Mall (zlyton)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Passing extra parameters to WP_Query for faster search queries"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Store \"first image\" in postmeta"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Query post status \"publish\" because admin-ajax.php runs in an admin context (oy!)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Ignore sticky posts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Prevent browser autocomplete on individual input fields, not just the form"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tested with WordPress 3.8!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-07-07 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for \"undefined offset\" notice"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with WooCommerce's AJAX search (only registers pre_get_posts handler when going DWLS AJAX request)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-06-05 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added search results width to the customizer"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Faster startup on AJAX requests (fewer includes &amp; hooks registered)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "If SCRIPT_DEBUG is set, use non-minified scripts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now uses a proper loop to get search results. Hopefully improves compatibility with other search plugins"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The parameters to the dwls_alter_results hook have changed: array of results (instead of a query object), deprecated (always -1), DavesWordPressLiveSearchResults instance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now uses WordPress's native submit_button() function to generate submit buttons in the admin interface for more consistent styling with the rest of admin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Requires WordPress 3.5 or higher"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-01-22 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a Javascript error when resizing a window"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed the \"debug\" tab - wasn't very useful"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Force a high z-index on the spinner"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012-12-21 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Always include the \"custom\" css file on admin pages. Ensures customizer preview always looks right."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "German (de_DE) translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Color picker for WP 3.5+"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012-11-07 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Simplified jQuery selector for older jQuery versions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012-11-03 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a> and many awesome translators!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Turkish (tr_TR) translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "French (fr_FR) translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dutch (nl_NL) translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Polish (pl_PL) translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Portugese (pt_PT) translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved method of getting the first thumbnail"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Canvas/VML-based spinner eliminates the need for the transparent .gif"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Italian (it_IT) translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Spanish (es_ES) translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added hooks &amp; filters for people to plug into DWLS"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed regex parsing issue when permalinks aren't enabled"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support for multiple search boxes (finally!)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "You can now click anywhere in the result box to go to that result"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WP E-Commerce is officially supported again"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Toggle to enable/disable the_content filter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "\"View more results\" is now translatable"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix to jQuery dependency definition (great catch by Robert Windisch)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Rewrote DWLSTransients for faster performance/simplicity"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012-04-29 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Back-ported fix from 3.0 which sets defaults on activation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tested for compatibility with WordPress 3.4"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2011-11-10 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Slovenian (sl_SI) translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Swedish (sv_SE) translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Various i18N fixes now that I have translations to work with"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2011-09-15 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for search results x positioning"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2011-09-14 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WPML compatibility (thanks for the license!)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Pruned some outdated code"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Better handling of Javascript config variables"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2011-08-29 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for i18n loading issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2011-08-03 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a hook to keep Relevanssi integration out of the main code"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "i18n for admin screens and user-facing text"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2011-07-27 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Option to disable \"View more results\" link"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2011-07-16 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for Relevanssi issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Passing correct $capability string to admin_menu() - thanks lag47!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Configurable excerpt length (for Alok)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2011-05-20 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Major code cleanup &amp; streamlining"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added z-index:999999 to all the default CSS files"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed jQuery Dimensions plugin. It's in jQuery core &gt; 1.2.6 &amp; recent WP releases include jQuery 1.4"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "(Hopefully) fixed IE8 hang issue (jQuery Dimensions)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2011-03-09 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for determining plugin URL when WordPress is installed in a subdirectory"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Sprinkled in static declarations where needed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Better? fix for determining plugin URL when WP Subdomains is installed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2011-02-28 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Pass WP_Query a parameter telling it to only return \"publish\" items (no drafts) -- WP3.1 regression case?"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2011-02-24 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Using wp_ajax actions now (deprecating my bootstrap on every AJAX call)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Static Javascript (not generated) and inline configuration"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Cached search results for anonymous users"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Debug tab for advanced users. Just shows cache dump for now."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 3.1 compatibility!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2011-01-10 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Generate a static version of the Javascript file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2011-01-09 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug with Relevanssi and setting to display 0 (unlimited) posts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Display an alert if another plugin is loading jQuery &lt; 1.2.6"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2010-12-04 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Search \"any\" content (posts, pages, custom post types)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Better compatibility with Relevanssi plugin (worked with Mikko from that project)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor jQuery performance improvements"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2010-10-25 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Split options into \"Settings\" and \"Advanced\" tabs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "X Offset setting to position the results dropdown"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Include pages (as well as posts) in search results"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Raised minimum requirement to WP 2.9 (required for \"Include pages\" change)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2010-10-07 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed \"max results\" functionality lost when implementing WP E-Commerce compatibility"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compatibility w/servers that don't allow getimagesize() to use URLs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Merged in Ron Schirmacher's code for WP E-Commerce tag &amp; meta search"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compatibility with WP E-Commerce when table names are used"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for autocomplete suppression"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2010-08-17 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Default hidden source option to 0 (search WP, not WP E-Commerce)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2010-08-12 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Option to not include any additional CSS file (thanks Andy Hall!)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support for xLanguage plugin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support for searching WP E-Commerce products"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Replaced clearfix that was somehow lost"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2010-07-03 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "z-index:9999 for cadbloke to keep search results above all other content (that doesn't already have a z-index of 9999 or higher)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Hidden results display when resizing window http://wordpress.org/support/topic/410612"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2010-05-02 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed changelog formatting"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Reposition the search results popup when the window is resized"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Send AJAX results with a test/javascript content-type"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2010-03-23 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now compatible with WP-Subdomains plugin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Format dates using WordPress date setting"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added MIT license text to daves-wordpress-live-search.js.php and daves-wordpress-live-search-bootstrap.php files"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2010-02-24 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support for wp-config.php outside main WordPress directory (2.6+)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix to make \"view more results\" link work on pages other than home"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix path to stylesheet directory"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix compatibility with child themes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2010-02-14 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option for minimum number of characters that need to be entered before triggering a search"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "More graceful failure message in PHP4"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added code to ignore E_STRICT warnings when E_STRICT enabled on PHP 5.3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Possible fix for compatibility with Relevanssi plugin (some concern this isn't working yet)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for compatibility with child themes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added MIT license to DavesWordPressLiveSearch.php class"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2009-12-02 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tested compatibility with WordPress 2.3-2.9 beta 2"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed stylesheet issue with WordPress 2.5.x"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Set minimum WordPress version to 2.6. Admin page doesn't appear in 2.5."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for WordPress 2.9 \"post thumbnails\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Put autocomplete=\"off\" on the form instead of the search box (fix for Firefox issue?)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Use \"Display Name\" instead of \"username\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Javascript performance improvements"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added page exception list"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Live search no longer tries to add itself to admin pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2009-10-25 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added note about WP-Minify"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tested with WordPress 2.8.5"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved JavaScript to an external file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security - nonce checking on admin screen"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security - check \"manage_options\" security setting"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Notes on configuration in readme.txt"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2009-08-27 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Thumbnails in the search results"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Excerpts in the search results"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2009-08-17 Dave Ross <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Implemented selectable CSS files"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug that broke live searches containing ' characters"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2009-07-08 Dave Ross  <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed compatibility with Search Everything plugin, possibly others"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2009-06-03 Dave Ross  <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Renamed release 1.3.1 to 1.4 because WordPress.org doesn't seem to like 1.3.1. Seems like kind of a waste to do a full point release for this"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Building permalinks instead of using post guid (problem with posts imported from another blog)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2009-05-22  Dave Ross  <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an annoying bug where the search results div collapsed and expanded again every time an AJAX request completed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Cancel any existing AJAX requests before sending a new one"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Check for PHP 5.x. Displays an error when you try to activate the plugin on PHP &lt; 5"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "No longer sends the entire WP_Query object to the browser. This was a potential information disclosure issue, plus it was a lot to serialize on the server and parse in the brower"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor code cleanup &amp; optimizations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2009-04-10  Dave Ross  <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Code cleanup &amp; optimizations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Styled the admin screen to fit in with WordPress better"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New option: display the results above or below the search box"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Included a note on the admin screen recommending the Google Libraries plugin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2009-03-30  Dave Ross  <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed compatibility issues with PHP &lt; 5.2.0 and PHP &lt; 5.1.2"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New option: limit the number of results to display"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2009-03-13  Dave Ross  <a href=\"mailto:&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;\">&#x64;&#x61;&#118;&#101;&#064;&#099;&#115;&#x69;&#x78;&#x74;&#x79;4&#046;&#099;&#111;&#109;</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial release"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Filters"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Wish List"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "dwls_alter_results"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "dwls_attachment_thumbnail"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "dwls_post_title"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "dwls_the_excerpt"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "dwls_post_date"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "dwls_author_name"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "dwls_alter_result_template"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "dwls_post_custom"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "dwls_query_fields"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "\"No results found\" message (optional)"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Features I want to implement in future releases:"
+msgstr ""

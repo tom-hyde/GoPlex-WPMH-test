@@ -1,0 +1,372 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: vc_clipboard.php:73
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-20 00:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: vc_clipboard.php:17
+msgid "Copy"
+msgstr ""
+
+#: vc_clipboard.php:18
+msgid "Copy+"
+msgstr ""
+
+#: vc_clipboard.php:19
+msgid "Cut"
+msgstr ""
+
+#: vc_clipboard.php:20
+msgid "Cut+"
+msgstr ""
+
+#: vc_clipboard.php:21
+msgid "Paste"
+msgstr ""
+
+#: vc_clipboard.php:23
+msgid "C"
+msgstr ""
+
+#: vc_clipboard.php:24
+msgid "C+"
+msgstr ""
+
+#: vc_clipboard.php:25
+msgid "X"
+msgstr ""
+
+#: vc_clipboard.php:26
+msgid "X+"
+msgstr ""
+
+#: vc_clipboard.php:27
+msgid "P"
+msgstr ""
+
+#: vc_clipboard.php:29
+msgid "Copy this section"
+msgstr ""
+
+#: vc_clipboard.php:30
+msgid "Copy to clipboard stack"
+msgstr ""
+
+#: vc_clipboard.php:31
+msgid "Cut this section"
+msgstr ""
+
+#: vc_clipboard.php:32
+msgid "Move to clipboard stack"
+msgstr ""
+
+#: vc_clipboard.php:33
+msgid "Paste inside/after this section"
+msgstr ""
+
+#: vc_clipboard.php:34
+msgid "Click to clear clipboard"
+msgstr ""
+
+#: vc_clipboard.php:35
+msgid "Copy this row"
+msgstr ""
+
+#: vc_clipboard.php:36
+msgid "Cut this row"
+msgstr ""
+
+#: vc_clipboard.php:37
+msgid "Paste after this row"
+msgstr ""
+
+#: vc_clipboard.php:38
+msgid "Copy content of this column"
+msgstr ""
+
+#: vc_clipboard.php:39
+msgid "Cut content of this column"
+msgstr ""
+
+#: vc_clipboard.php:40
+msgid "Paste inside this column"
+msgstr ""
+
+#: vc_clipboard.php:41
+msgid "Copy this element"
+msgstr ""
+
+#: vc_clipboard.php:42
+msgid "Cut this element"
+msgstr ""
+
+#: vc_clipboard.php:43
+msgid "Paste after this element"
+msgstr ""
+
+#: vc_clipboard.php:45
+msgid "Export"
+msgstr ""
+
+#: vc_clipboard.php:46
+msgid "Import"
+msgstr ""
+
+#: vc_clipboard.php:47
+msgid "Load from Google Cloud"
+msgstr ""
+
+#: vc_clipboard.php:48
+msgid "GC Load"
+msgstr ""
+
+#: vc_clipboard.php:49
+msgid "Save to Google Cloud"
+msgstr ""
+
+#: vc_clipboard.php:50
+msgid "GC Save"
+msgstr ""
+
+#: vc_clipboard.php:51
+msgid "Name:"
+msgstr ""
+
+#: vc_clipboard.php:52
+msgid "Submit"
+msgstr ""
+
+#: vc_clipboard.php:53
+msgid "Cancel"
+msgstr ""
+
+#: vc_clipboard.php:54
+msgid "License"
+msgstr ""
+
+#: vc_clipboard.php:55
+msgid "Activate product license"
+msgstr ""
+
+#: vc_clipboard.php:56
+msgid "Item Purchase Code:"
+msgstr ""
+
+#: vc_clipboard.php:57
+msgid ""
+"Email (optional) - enter to receive info on new products and special offers:"
+msgstr ""
+
+#: vc_clipboard.php:58
+msgid ""
+"A valid license qualifies you for support and enables Google Cloud template "
+"manager. A license may only be used for one WPBakery Page Builder (Visual "
+"Composer) Clipboard installation on one WordPress site at a time. If you "
+"have activated your license on another site, then you should <a href="
+"\"http://codecanyon.net/item/visual-composer-clipboard/8897711\" class="
+"\"vcc_obtain\" target=\"_blank\">obtain new license</a>."
+msgstr ""
+
+#: vc_clipboard.php:59
+msgid "Preferences"
+msgstr ""
+
+#: vc_clipboard.php:60
+msgid "Prefs"
+msgstr ""
+
+#: vc_clipboard.php:61
+msgid "Short commands"
+msgstr ""
+
+#: vc_clipboard.php:62
+msgid "Toolbar Initially Closed"
+msgstr ""
+
+#: vc_clipboard.php:63
+msgid "Hide Cut/Cut+ Buttons"
+msgstr ""
+
+#: vc_clipboard.php:64
+msgid "Hide Paste Button"
+msgstr ""
+
+#: vc_clipboard.php:65
+msgid "Hide Export/Import"
+msgstr ""
+
+#: vc_clipboard.php:66
+msgid "Hide GC Buttons"
+msgstr ""
+
+#: vc_clipboard.php:67
+msgid "Hide License Button"
+msgstr ""
+
+#: vc_clipboard.php:69
+msgid "Pasting, please wait..."
+msgstr ""
+
+#: vc_clipboard.php:71
+msgid "Can't mix "
+msgstr ""
+
+#: vc_clipboard.php:72
+msgid " with "
+msgstr ""
+
+#: vc_clipboard.php:74
+msgid "!"
+msgstr ""
+
+#: vc_clipboard.php:76
+msgid "Error 01. Please try later."
+msgstr ""
+
+#: vc_clipboard.php:77
+msgid "Error 02. Please try later."
+msgstr ""
+
+#: vc_clipboard.php:78
+msgid "Error 03. Please try later."
+msgstr ""
+
+#: vc_clipboard.php:79
+msgid "Error 04. Please try later."
+msgstr ""
+
+#: vc_clipboard.php:80
+msgid "Error 05. Please try later."
+msgstr ""
+
+#: vc_clipboard.php:81
+msgid "Error 06. Please try later."
+msgstr ""
+
+#: vc_clipboard.php:82
+msgid "Error 07. Please try later."
+msgstr ""
+
+#: vc_clipboard.php:83
+msgid "Error 08. Please try later."
+msgstr ""
+
+#: vc_clipboard.php:84
+msgid "Error 09. Please try later."
+msgstr ""
+
+#: vc_clipboard.php:85
+msgid "Error 10. Please try later."
+msgstr ""
+
+#: vc_clipboard.php:87
+msgid "Clear clipboard?"
+msgstr ""
+
+#: vc_clipboard.php:89
+msgid "No saved templates."
+msgstr ""
+
+#: vc_clipboard.php:90
+msgid "Load "
+msgstr ""
+
+#: vc_clipboard.php:91
+msgid "Delete "
+msgstr ""
+
+#: vc_clipboard.php:92
+msgid "Enter template name."
+msgstr ""
+
+#: vc_clipboard.php:94
+msgid "Clipboard template saved."
+msgstr ""
+
+#: vc_clipboard.php:95
+msgid "Name already taken."
+msgstr ""
+
+#: vc_clipboard.php:96
+msgid "Nothing to save."
+msgstr ""
+
+#: vc_clipboard.php:97
+msgid "WPBakery Page Builder (Visual Composer) Clipboard is now activated!"
+msgstr ""
+
+#: vc_clipboard.php:99
+msgid "Can't paste "
+msgstr ""
+
+#: vc_clipboard.php:100
+msgid " inside/after vc_section!"
+msgstr ""
+
+#: vc_clipboard.php:101
+msgid " after vc_row!"
+msgstr ""
+
+#: vc_clipboard.php:102
+msgid " after vc_row_inner!"
+msgstr ""
+
+#: vc_clipboard.php:103
+msgid " inside "
+msgstr ""
+
+#: vc_clipboard.php:104
+msgid " to root!\\n\\nYou can only paste it inside a column."
+msgstr ""
+
+#: vc_clipboard.php:105
+msgid " content after "
+msgstr ""
+
+#: vc_clipboard.php:106
+msgid "\\n\\nYou can only paste it inside a column."
+msgstr ""
+
+#: vc_clipboard.php:107
+msgid ""
+"Can't paste vc_row_inner as root element!\\n\\nYou can only paste it inside "
+"a column."
+msgstr ""
+
+#: vc_clipboard.php:108
+msgid ""
+"Can't paste vc_column content to root!\\n\\nYou can only paste it inside a "
+"column."
+msgstr ""
+
+#: vc_clipboard.php:109
+msgid ""
+"Can't paste vc_column_inner content to root!\\n\\nYou can only paste it "
+"inside a column."
+msgstr ""
+
+#: vc_clipboard.php:110
+msgid ""
+"Can't paste vc_column content to vc_column_inner!\\n\\nYou can only paste it "
+"inside a column."
+msgstr ""
+
+#: vc_clipboard.php:111
+msgid ""
+"Can't paste vc_row_inner to vc_column_inner!\\n\\nYou can only paste it "
+"inside a column."
+msgstr ""

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" class="uncode-row-divider" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="240px" height="24px" viewBox="0 0 240 24" enable-background="new 0 0 240 24" xml:space="preserve" preserveAspectRatio="none">
+<path fill="#464D54" d="M0,0v24L240,0H0z"/>
+<path fill="#464D54" fill-opacity="0.33" d="M0,24h240V0"/>
+<path fill="#464D54" fill-opacity="0.33" d="M240,12.393V0L0,24L240,12.393z"/>
+</svg>

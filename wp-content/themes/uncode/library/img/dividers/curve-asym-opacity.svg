@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" class="uncode-row-divider" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="240px" height="24px" viewBox="0 0 240 24" enable-background="new 0 0 240 24" xml:space="preserve" preserveAspectRatio="none">
+<path fill="#464D54" fill-opacity="0.33" d="M0,7.172V24h240v-4.516C97.769-1.212,33.652-5.596,0,7.172z"/>
+<path fill="#464D54" fill-opacity="0.33" d="M0,14.252V24h240v-2.828C95.62-3.818,34.971-6.586,0,14.252z"/>
+<path fill="#464D54" d="M0,24C47.91-5.717,92.93-5,239.521,24H0z"/>
+</svg>

@@ -1,0 +1,136 @@
+# Copyright (C) 2019 Uncode Privacy
+# This file is distributed under the same license as the Uncode Privacy package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Uncode Privacy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Undsgn\n"
+"Report-Msgid-Bugs-To: https://undsgn.com/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/class-uncode-toolkit-privacy-admin.php:68, ../includes/class-uncode-toolkit-privacy-admin.php:68
+msgid "Privacy"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-admin.php:94, ../includes/views/admin/settings.php:19
+msgid "General"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-admin.php:95, ../includes/views/admin/settings.php:94
+msgid "Consents"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-public.php:130
+msgid "I Agree"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-public.php:157
+msgid "We could not verify the the security token. Please try again."
+msgstr ""
+
+#: ../includes/uncode-toolkit-privacy-helper-functions.php:83, ../includes/views/public/privacy-bar.php:9, ../includes/views/public/privacy-preferences-modal.php:16
+msgid "Privacy Preferences"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:2
+msgid "Settings"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:24
+msgid "Privacy Policy Page"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:31
+msgid "-- Select --"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:41
+msgid "Privacy Center"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:44
+msgid "This section handles the Privacy Banner and Privacy Prefences main text."
+msgstr ""
+
+#: ../includes/views/admin/settings.php:45, ../includes/views/admin/settings.php:76
+msgid "Important:"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:45
+msgid "If the Privacy Banner text is not filled out, the Privacy Banner will not show up."
+msgstr ""
+
+#: ../includes/views/admin/settings.php:52
+msgid "Privacy Banner Text"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:61
+msgid "Privacy Text"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:66
+msgid "This will appear in the consent section of the privacy preference window."
+msgstr ""
+
+#: ../includes/views/admin/settings.php:72
+msgid "Consent Notice"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:75
+msgid "This section handles the fallback text that will appear when a consent hasn't been approved yet."
+msgstr ""
+
+#: ../includes/views/admin/settings.php:76
+msgid "No HTML code is allowed. Use the shortcode <code>[uncode_privacy_box]Your Text[/uncode_privacy_box]</code> to print a link that opens the preferences box."
+msgstr ""
+
+#: ../includes/views/admin/settings.php:82
+msgid "Consent Notice Text"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:85
+msgid "This content is blocked. Please review your [uncode_privacy_box]Privacy Settings[/uncode_privacy_box]."
+msgstr ""
+
+#: ../includes/views/admin/settings.php:96
+msgid "Type of consent"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:98
+msgid "Add consent"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:107, ../includes/views/admin/tmpl-consents.php:3
+msgid "Unregister this consent."
+msgstr ""
+
+#: ../includes/views/admin/settings.php:112, ../includes/views/admin/tmpl-consents.php:9, ../includes/views/public/privacy-preferences-modal.php:26
+msgid "Required"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:121, ../includes/views/admin/tmpl-consents.php:18
+msgid "Active by default"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:131, ../includes/views/admin/tmpl-consents.php:27
+msgid "Consent description"
+msgstr ""
+
+#: ../includes/views/public/privacy-preferences-modal.php:8
+msgid "Privacy Preference Center"
+msgstr ""
+
+#: ../includes/views/public/privacy-preferences-modal.php:61
+msgid "Save Preferences"
+msgstr ""
+
+#: ../includes/views/public/privacy-preferences-modal.php:63
+msgid "Privacy Policy"
+msgstr ""
